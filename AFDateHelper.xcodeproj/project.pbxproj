@@ -79,6 +79,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		969C5FB8288AC10100F3B9F5 /* AFDateHelper */ = {
+			isa = PBXGroup;
+			children = (
+				969C5FB1288AB50500F3B9F5 /* AFDateHelper.swift */,
+				969C5FB3288AB50800F3B9F5 /* AFDateHelper.h */,
+				969C5FB4288AB50B00F3B9F5 /* Info.plist */,
+			);
+			name = AFDateHelper;
+			sourceTree = "<group>";
+		};
 		OBJ_10 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -125,9 +135,7 @@
 		OBJ_7 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				969C5FB1288AB50500F3B9F5 /* AFDateHelper.swift */,
-				969C5FB3288AB50800F3B9F5 /* AFDateHelper.h */,
-				969C5FB4288AB50B00F3B9F5 /* Info.plist */,
+				969C5FB8288AC10100F3B9F5 /* AFDateHelper */,
 			);
 			name = Sources;
 			sourceTree = SOURCE_ROOT;
