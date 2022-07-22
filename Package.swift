@@ -15,7 +15,8 @@ let package = Package(
     targets: [
         .target(
             name: "AFDateHelper",
-            dependencies: []),
+            dependencies: [],
+			path: "Sources"),
         .testTarget(
             name: "AFDateHelperTests",
             dependencies: ["AFDateHelper"]),
